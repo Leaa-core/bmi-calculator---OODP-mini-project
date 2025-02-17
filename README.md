@@ -69,6 +69,10 @@ Example:
 ```
 JohnDoe 70.00 1.75 22.86
 ```
+## TEAM MEMBERS
+Lea Daison RA2412703010003
+Vasundara N  RA2412703010023
+sesha priya D  RA2412707010027
 
 ## License
 This project is open-source and available under the MIT License. See the LICENSE file for more information.
